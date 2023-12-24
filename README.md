@@ -1,8 +1,8 @@
-## 🚀 Sobre
+## 🚀 About
 
-Pequena atividade construída com Spring Boot para treinamento de conceitos como injeção de dependência e inversão de controle.
+Small activity built with Spring Boot for training concepts such as dependency injection and inversion of control.
 
-## 🛠️ Construído com
+## 🛠️ Built with
 
 * Java 
 * Spring Boot
