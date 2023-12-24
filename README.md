@@ -1,6 +1,6 @@
 ## 🚀 Sobre
 
-Pequena atividade para treinamento dos conceitos de injeção de dependência e inversão de controle com Spring Boot.
+Pequena atividade construída com Spring Boot para treinamento de conceitos como injeção de dependência e inversão de controle.
 
 ## 🛠️ Construído com
 
